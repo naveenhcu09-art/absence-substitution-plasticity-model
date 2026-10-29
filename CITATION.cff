@@ -1,0 +1,5 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript when using this code. Complete author and publication metadata before public release."
+title: "Absence spares, substitution diverts: reproducibility code"
+type: software
+# TODO before public release: add authors, release date, version, DOI, and repository URL.
